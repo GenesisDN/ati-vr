@@ -63,6 +63,7 @@
     <Compile Include="Assets/Oculus Hands/AnimateHandsOnInput.cs" />
     <Compile Include="Assets/Dog/InputHandler.cs" />
     <Compile Include="Assets/TutorialInfo/Scripts/Readme.cs" />
+    <Compile Include="Assets/Oculus Hands/ActivateGrabRay.cs" />
     <Compile Include="Assets/Oculus Hands/ActivateTeleportationRay.cs" />
     <Compile Include="Assets/Dog/DogAgentController.cs" />
   </ItemGroup>
