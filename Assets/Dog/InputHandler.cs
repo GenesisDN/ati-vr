@@ -13,7 +13,7 @@ public class InputHandler : MonoBehaviour
     public Transform rightHandController;
     public Transform leftHandController;
     public Transform cameraTransform;
-    public float distancePetThreshold = 0.05f;
+    public float distancePetThreshold = 0.3f;
     public float distanceWalkTargetThreshold = 1.2f;
 
 
@@ -32,7 +32,7 @@ public class InputHandler : MonoBehaviour
             Pet();
         }
 
-        WalkToCamera();
+        //WalkToCamera();
 
     }
 
